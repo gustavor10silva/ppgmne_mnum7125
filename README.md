@@ -16,6 +16,8 @@ Repositório que contém os arquivos utilizados por mim, como aluno, na discipli
 | 27/08/2024 | 4      | Solução das atividades 4                     |                          |
 | 02/09/2024 | 5      | Problema do Caixeiro Viajante                | 5                        |
 | 03/09/2024 | 5      | Solução das atividades 5                     |                          |
+| 09/09/2024 | 6      | Caixeiro Viajante - Callback etc             | 6                        |
+| 10/09/2024 | 6      | Solução da atividade 6 + PDP  (Pick Up and Deliv.)               |                          |
 
 
 
